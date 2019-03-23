@@ -1,0 +1,15 @@
+{
+	"notes": ["♩", "♪", "♫", "♬", "♭", "♯", "♮", "ø", " "] ,
+	"pentagram": ["🎼"],
+	"group" :["Iron Maiden", "Metallica", "Bruce Springsteen", "Eagles", "Bon Jovi", "Genesis", "The Beatles", "Queen", "John Lennon", "Coldplay", "Aerosmith", "Slash", "Guns & Roses", "Deff Leppard", "Nirvana", "Led Zeppelin", "Green Day", "Pink Floyd",
+				"The Rolling Stones", "Elvis Presley", "The Doors", "Scorpions", "Avantasia", "Helloween", "Anthrax", "Slipknot", "U2", "Oasis", "The Who", "Jimi Hendrix", "Red Hot Chili Peppers", "R.E.M.", "Kiss", "The Police", "Journey", "Cinderella", "Whitesnake",
+                                 "David Gilmour", "David Bowie", "Dire Straits", "Muse", "The Cranberries", "Santana", "Sting", "Jeff Beck", "Black Sabbath", "Deep Purple", "Europe", "Gary Moore", "Cream", "Survivor", "Pearl Jam", "Chuck Berry", "Jethro Tull", "Duran Duran", "Van Halen",
+				 "Skid Row", "Tina Turner", "ZZ Top", "Boston", "B.B. King", "Mägo de Oz", "Warcry", "Saratoga", "Santelmo", "Sôber", "Tierra Santa", "Obús", "Barón Rojo", "Avalanch", "Khy", "Leo Jiménez", "Arch Enemy", "Megadeth", "Mark Knopfler", "Janis Joplin",
+				 "The Cure", "Ozzy Osbourne", "Rod Stewart", "Blondie", "Foreigner", "Cheap Trick", "Marilyn Manson", "Johnny Cash", "Cyndi Lauper", "Lenny Kravitz", "Dream Theater", "Neil Young", "Rammstein", "King Crimson", "Judas Priest", "Lynyrd Skynyrd", "Sex Pistols",
+				 "George Michael", "Status Quo", "Lou Reed", "Michael Schenker", "Ratt", "Poison", "Mötley Crüe", "The Yardbirds", "Ronnie James Dio", "Rainbow", "Joan Jett and the blackhearts", "Frank Zappa", "Smashing Pumpkins", "The offspring", "Velvet Revolver", 
+				 "Twisted Sister", "Placebo", "Korn", "Slayer", "Airbourne", "Limp Bizkit", "Billy Idol", "Soundgarden", "Machine Head", "Evanescence", "Blur", "Pantera",  "Alice in chains", "Rage against the machine", "The Pretenders", "Motörhead",  "Quiet Riot", "The Byrds",
+				 "Drogonforce", "Elvenking", "The White Stripes", "WASP", "Eluveitie",  "Blind Guardian", "UFO", "Dancig", "Ghost", "Newsted"],
+	"words": ["rock", "yeaaaah", "another", "rock&roll", "beast", "eternity", "soul", "metaaaal", "oooouhhh", "cries", "burn", "up", "rock on", "everybody", "beast", "halloween", "fuck'n", "rooock", "die", "black", "live", "so", "dancing", "fly", "gonna", "never", "girl", "baby", "babe", "sugar",
+				"time", "want", "see", "away", "love", "hear", "now", "around", "need", "man", "drink", "woman", "heart", "night", "bad", "land", "open", "child", "stand up", "rolling", "river", "mountain"], 
+        "origin": ["#pentagram#|__#notes#__|__#notes#__| #group# says #words# #words# #words#"]
+}
